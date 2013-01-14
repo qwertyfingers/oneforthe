@@ -12,8 +12,9 @@
 *.jpg
 *.jpeg
 *settings.py
+*.db
 
 
 
 
-
+money.db
